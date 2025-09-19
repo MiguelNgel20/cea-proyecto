@@ -1,0 +1,10 @@
+{
+    "name": "mricardom1/cea-proyecto",
+    "description": "CEA Arquitectura Hexagonal - Cancion",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
